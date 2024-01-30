@@ -22,6 +22,7 @@ The application displays the menu options and prices to the user. And the user s
 
 
  **Ordering Interface Overview:**
+ 
     Follow the on-screen instructions to browse the menu, add items to your cart, and complete your order.
 
 **1. Default User Interface:**
