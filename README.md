@@ -35,11 +35,13 @@ The application displays the menu options and prices to the user. And the user s
       
 ### **3. View the contents of the cart**
 
-   ![image](https://github.com/HKwirikia/Simple-Food-Ordering-App/assets/117145662/4bddbad3-a68f-48b8-aa56-9afe9a5b9e2a)
+   ![image](https://github.com/HKwirikia/Simple-Food-Ordering-App/assets/117145662/69413343-b1d0-4e97-83cf-d6ee017d88eb)
+
     
 ### **4. Proceed to checkout**
 
-   ![image](https://github.com/HKwirikia/Simple-Food-Ordering-App/assets/117145662/82db64ea-ed3c-4498-8907-eeee4b4fafda)
+   ![image](https://github.com/HKwirikia/Simple-Food-Ordering-App/assets/117145662/f314171e-9138-4885-afa8-bb0db47f7b42)
+
     
 ## Contributing
 
