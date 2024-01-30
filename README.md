@@ -21,23 +21,23 @@ The application displays the menu options and prices to the user. And the user s
 - Check out seamlessly and await your delicious order!
 
 
- **Ordering Interface Overview:**
+ ### **Ordering Interface Overview:**
  Follow the on-screen instructions to browse the menu, add items to your cart, and complete your order.
 
-**1. Default User Interface:**
+### **1. Default User Interface:**
 
    ![image](https://github.com/HKwirikia/Simple-Food-Ordering-App/assets/117145662/aec9c7d6-58cc-48e3-8e96-ca0469c292dd)
 
-**2. Add New Menu Item.**
+### **2. Add New Menu Item.**
 
    ![image](https://github.com/HKwirikia/Simple-Food-Ordering-App/assets/117145662/ca47112e-7720-4d63-a472-24ba9539072e)
     
       
-**3. View the contents of the cart**
+### **3. View the contents of the cart**
 
    ![image](https://github.com/HKwirikia/Simple-Food-Ordering-App/assets/117145662/4bddbad3-a68f-48b8-aa56-9afe9a5b9e2a)
     
-**4. Proceed to checkout**
+### **4. Proceed to checkout**
 
    ![image](https://github.com/HKwirikia/Simple-Food-Ordering-App/assets/117145662/82db64ea-ed3c-4498-8907-eeee4b4fafda)
     
