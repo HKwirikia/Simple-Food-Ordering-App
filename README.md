@@ -11,7 +11,7 @@ The application displays the menu options and prices to the user. And the user s
 
 - Ensure you have Python installed on your machine.
 - Install pip (Python package installer).
-- I have uploaded the Python code to create this basic food-ordering app.
+- I have uploaded the [Python code](https://github.com/HKwirikia/Simple-Food-Ordering-App/blob/master/Hannah's%20Food%20Palace%20-%20Ordering%20App.ipynb) I used to create this basic food-ordering app.
 
 ## Features
 
